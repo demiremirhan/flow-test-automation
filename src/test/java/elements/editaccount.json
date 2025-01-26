@@ -1,0 +1,95 @@
+{
+  "USERNAME": {
+    "XPATH": "//*[@placeholder='Username']"
+  },
+  "PASSWORD": {
+    "XPATH": "//*[@placeholder='Password']"
+  },
+  "LOGIN BUTONU": {
+    "XPATH": "//div[text()='Login']"
+  },
+  "OPEN MONEY TRANSFER": {
+    "XPATH": "//div[text()='Open Money Transfer']"
+  },
+  "ACCOUNT NAME TEXTBOX": {
+    "XPATH": "//div[text()='Account name']/following-sibling::div/input"
+  },
+  "UPDATE BUTONU": {
+    "XPATH": "//div[text()='UPDATE']"
+  },
+  "ACCOUNT NAME DASHBOARD": {
+    "XPATH": "//div[text()='Account name']/following-sibling::div"
+  },
+  "ACCOUNT TYPE DASHBOARD": {
+    "XPATH": "//div[text()='Account type']/following-sibling::div"
+  },
+  "CREATION TIME DASHBOARD": {
+    "XPATH": "//div[text()='Creation time']/following-sibling::div"
+  },
+  "AMOUNT DASHBOARD": {
+    "XPATH": "//div[text()='Amount']/following-sibling::div"
+  },
+  "MY ACCOUNT TITLE": {
+    "XPATH": "//div[text()='My account']"
+  },
+  "TRANSACTIONS FIRST LINE": {
+    "XPATH": "(//div[contains(@class,'r-1m04atk')])[1]"
+  },
+  "TRANSFER MONEY BUTTON": {
+    "XPATH": "(//div[contains(@class,'iyfy8q')])[1]"
+  },
+  "SENDER ACCOUNT": {
+    "XPATH": "(//div[@class='css-175oi2r r-1777fci'])[1]"
+  },
+  "SENDER ACCOUNT1": {
+    "XPATH": "(//div[@class='css-175oi2r r-1777fci'])[1]/select/option"
+  },
+  "RECIEVER ACCOUNT": {
+    "XPATH": "(//div[@class='css-175oi2r r-1777fci'])[2]"
+  },
+  "RECIEVER ACCOUNT1": {
+    "XPATH": "((//div[@class='css-175oi2r r-1777fci'])[2]/select/option)[1]"
+  },
+  "AMOUNT TEXTBOX": {
+    "XPATH": "(//input[contains(@class,'r-h3s6tt r-1qhn6m8')])"
+  },
+  "SEND BUTTON": {
+    "XPATH": "//div[text()='Send']"
+  },
+  "LAST TRANSACTION AMOUNT": {
+    "XPATH": "(//div[@class=\"css-146c3p1 r-1ozpqpt r-yv33h5 r-1b43r93\"])[5]"
+  },
+  "ADD MONEY BUTTON": {
+    "XPATH": "//div[text()='Add money']"
+  },
+  "CARD NUMBER TEXTBOX": {
+    "XPATH": "//div[text()='Card number']/following-sibling::input"
+  },
+  "CARD HOLDER TEXTBOX": {
+    "XPATH": "//div[text()='Card holder']/following-sibling::input"
+  },
+  "EXPIRY DATE TEXTBOX": {
+    "XPATH": "//div[text()='Expiry date']/following-sibling::input"
+  },
+  "CVV TEXTBOX": {
+    "XPATH": "//div[text()='CVV']/following-sibling::input"
+  },
+  "AMOUNT TEXTBOX ADD MONEY": {
+    "XPATH": "//div[text()='Amount']/following-sibling::input"
+  },
+  "ADD BUTTON": {
+    "XPATH": "//div[text()='Add']"
+  },
+  "BACK BUTTON" : {
+    "XPATH": "//div[text()='Back']"
+  },
+  "EDIT ACCOUNT BUTTON": {
+    "XPATH": "//div[text()='Edit account']"
+  },
+  "EDIT ACCOUNT EXISTING ACCOUNT NAME": {
+    "XPATH": "//div[text()='Account name']/following-sibling::div/input"
+  },
+  "UPDATE BUTTON": {
+    "XPATH": "//div[text()='UPDATE']"
+  }
+}
